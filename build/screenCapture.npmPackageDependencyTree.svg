@@ -1,0 +1,27 @@
+<svg height="382" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="382" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ choo@5.1.5 </tspan>
+<tspan x="10" y="90">  ├─┬ bel@4.6.0 </tspan>
+<tspan x="10" y="106">  │ ├─┬ global@4.3.1 </tspan>
+<tspan x="10" y="122">  │ │ ├─┬ min-document@2.19.0 </tspan>
+<tspan x="10" y="138">  │ │ │ └── dom-walk@0.1.1 </tspan>
+<tspan x="10" y="154">  │ │ └── process@0.5.2 </tspan>
+<tspan x="10" y="170">  │ ├─┬ hyperx@2.3.0 </tspan>
+<tspan x="10" y="186">  │ │ └── hyperscript-attribute-to-property@1.0.0 </tspan>
+<tspan x="10" y="202">  │ └── on-load@3.2.0 </tspan>
+<tspan x="10" y="218">  ├── document-ready@2.0.1 </tspan>
+<tspan x="10" y="234">  ├── nanobus@3.1.0 </tspan>
+<tspan x="10" y="250">  ├── nanohistory@1.0.0 </tspan>
+<tspan x="10" y="266">  ├── nanohref@1.0.0 </tspan>
+<tspan x="10" y="282">  ├── nanomorph@4.0.4 </tspan>
+<tspan x="10" y="298">  ├── nanomount@1.0.1 </tspan>
+<tspan x="10" y="314">  ├── nanoraf@3.0.1 </tspan>
+<tspan x="10" y="330">  └─┬ nanorouter@2.0.0 </tspan>
+<tspan x="10" y="346">    └─┬ wayfarer@6.5.1 </tspan>
+<tspan x="10" y="362">      └── xtend@4.0.1</tspan>
+</text>
+</svg>
